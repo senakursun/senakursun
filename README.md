@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/04/47/17/68/1000_F_447176828_7Leejwia38M4u7OA3EdTGjwWapEwTHx0.jpg)
+![MasterHead](https://as1.ftcdn.net/v2/jpg/04/47/17/68/1000_F_447176828_7Leejwia38M4u7OA3EdTGjwWapEwTHx0.jpg)
 <h1 align="center">Hi 👋, I'm Sena Nur KURŞUN</h1>
 <h3 align="center">A Junior Mobile Developer from Türkiye</h3>
 
